@@ -1,0 +1,31 @@
+li {
+  margin: 5px 0;
+}
+
+.hero {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.rezept {
+  display: flex;
+  justify-content: space-around;
+}
+
+.rezept h3 {
+  text-align: center;
+}
+
+.zutaten {
+  width: 25%;
+  background-color: lightgray;
+  border-radius: 10px;
+}
+
+.zubereitung {
+  width: 65%;
+}
+
+.zubereitung li {
+  margin: 10px 0;
+}
